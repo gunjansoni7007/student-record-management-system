@@ -13,4 +13,4 @@ A simple **CLI-based Student Record Management System** built in Java for practi
 ## 🚀 How to Run
 1. Clone the repository  
    ```bash
-   git clone 
+   git clone https://github.com/gunjansoni7007/student-record-management-system
